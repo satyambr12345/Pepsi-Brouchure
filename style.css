@@ -370,6 +370,10 @@ header section .left #left_btn:hover
         height: 100%;
     }
 }
+@media only screen and (max-width:800px)
+{
+    
+}
 .drop_menu
 {
     display:none;

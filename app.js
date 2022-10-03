@@ -84,4 +84,3 @@ document.getElementById('left_btn').addEventListener('click',(ele)=>
         document.getElementById('carbo').innerText=pepsi[idx].carbo;
         document.getElementById('carbo1').innerText=pepsi[idx].carbo_per;
 })
-
